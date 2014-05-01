@@ -1,9 +1,9 @@
 ﻿{
-  "name": "RealtimeDemo",
+  "name": "MyFeed",
   "dependencies": {
     "redis": "0.10.1",
     "socket.io": "0.9.16",
-    "express": "2.5.1",
-    "jade": "0.16.0"
+    "express": "2.5.11",
+    "jade": "1.3.1"
   }
 }
